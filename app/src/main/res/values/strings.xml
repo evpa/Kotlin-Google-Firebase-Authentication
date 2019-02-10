@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleFirebaseAuth</string>
+    <string name="congrats_text">Congratulatins!! \n You\'ve successfully authenticated using Google Sign-In and Firebase.Yay!</string>
+    <string name="sign_out_button">Sign out</string>
+</resources>
